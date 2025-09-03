@@ -1,4 +1,6 @@
 # week07/.github/workflows/backend_ci.yml
+# This comment is for testing the CI pipeline
+# it should trigger the pipeline on update
 
 name: Backend CI - Test, Build and Push Images to ACR
 
